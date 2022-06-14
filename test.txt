@@ -1,1 +1,1 @@
-create test_b1.txt;
+create test_master.txt;
